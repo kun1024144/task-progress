@@ -1,0 +1,7 @@
+{
+  "name": "task-progress",
+  "version": "0.1.0",
+  "description": "任務進度條：在輸入框上方列出所有正在跑的子代理任務，每個一條進度條、百分比與預估剩餘分鐘；完成變綠色打勾，點任務名稱跳回那段對話。",
+  "types": "./types/index.d.ts",
+  "author": { "name": "Kun" }
+}
