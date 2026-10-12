@@ -1,0 +1,5 @@
+{
+  "name": "task-progress",
+  "owner": { "name": "Kun" },
+  "plugins": [{ "name": "task-progress", "source": "./task-progress" }]
+}
